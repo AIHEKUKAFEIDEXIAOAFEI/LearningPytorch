@@ -1,2 +1,1 @@
-# LearningPytorch
-used to write down some important process in learning pytorch
+this repositories is used to record my learning of Pytorch.
